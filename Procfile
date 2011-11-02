@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n cutter
+app: bin/hubot -a irc -n lubetzky
